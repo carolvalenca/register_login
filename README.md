@@ -1,3 +1,3 @@
 # register_login
 
-Sistema de cadastro de autenticação de usuários 
+estudo de sistema de cadastro e autenticação de usuários 
